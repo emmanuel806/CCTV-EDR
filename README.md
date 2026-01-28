@@ -35,3 +35,6 @@ https://github.com/user-attachments/assets/c152573d-8f20-4812-889f-2e61aaa06461
 ## 🔮 **Future Work** 
 1. 데이터 처리를 위한 서버 및 데이터베이스 안정화(견고화)
 2. 객체 탐지 모델 성능 개선 및 오탐/미탐 감소
+
+## 📜 License
+The code in this repository is released under the MIT License.
