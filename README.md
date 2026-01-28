@@ -38,7 +38,7 @@ CCTV-EDR은 CCTV 인프라를 활용해 비상 상황을 자동으로 탐지하�
 ---
 
 ## 🎬 **Demo** 
-https://github.com/MonoHaru/CCTV-EDR/blob/main/assets/demo.mp4
+[![Demo Video](assets/demo_thumbnail.png)](assets/demo.mp4)
 
 ---
 
