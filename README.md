@@ -30,7 +30,7 @@ CCTV-EDR은 CCTV 인프라를 활용해 비상 상황을 자동으로 탐지하�
 <img src="https://github.com/MonoHaru/CCTV-EDR/blob/main/assets/architecture.png" alt="architecture" width="800">
 
 ## 🎬 **Demo** 
-https://github.com/MonoHaru/CCTV-EDR/issues/1#issue-3863862774
+https://github.com/user-attachments/assets/c152573d-8f20-4812-889f-2e61aaa06461
 
 ## 🔮 **Future** 
 1. 데이터 처리를 위한 서버 및 데이터베이스 안정화(견고화)
