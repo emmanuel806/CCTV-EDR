@@ -21,9 +21,9 @@ CCTV-EDR은 CCTV 인프라를 활용해 비상 상황을 자동으로 탐지하�
 - Docker
 
 ## ✨ Features
-- CCTV 영상 기반 **실시간 객체 탐지**
-- 탐지 결과에 대한 **실시간 서버 알림**
-- WebSocket 기반 **실시간 모니터링**
+1. CCTV 영상 기반 **실시간 객체 탐지**
+2. 탐지 결과에 대한 **실시간 서버 알림**
+3. WebSocket 기반 **실시간 모니터링**
 
 ## 🏗️ Architecture
 <img src="https://github.com/MonoHaru/CCTV-EDR/blob/main/assets/process.png" alt="process" width="800">  
